@@ -1,0 +1,435 @@
+.banner.banner {
+  transform-origin: top left;
+  left: calc(50% - -48.1204px);
+  top: calc(50% - -8.1587px);
+  width: 387.6994px;
+  height: 536.3175px;
+  border-radius: 19.385px;
+  background-color: #053594;
+  transform: matrix(0.9848, 0.1736, -0.1736, 0.9848, 0, 0) translate(-50%, -50%);
+}
+.group21.group21 {
+  width: 340.8524px;
+  height: 265.7356px;
+}
+.group21 {
+  width: 340.8524px;
+  height: 265.7356px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.contentFrame.contentFrame {
+  gap: 25.8466px;
+  padding: 12.9233px 51.6933px 32.3083px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.frame1.frame1 {
+  gap: 12.9233px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.badge.badge.badge {
+  padding: 3.2308px 6.4617px;
+  border-radius: 6.4617px;
+}
+.label {
+  color: #fff;
+  font-size: 10.5002px;
+  line-height: 12.9233px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.developerHandoffImprovements {
+  color: #fff;
+  font-size: 22.6158px;
+  line-height: 25.8466px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.01em;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.youLlNowSeeAHighlightAroundSym {
+  color: #fff;
+  font-size: 12.9233px;
+  line-height: 19.385px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.frame12.frame12 {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.bannerController.bannerController.bannerController {
+  padding: 8.8848px 4.0385px;
+}
+.controller.controller.controller {
+  width: 8.0771px;
+  height: 8.0771px;
+}
+.controller {
+  width: 8.0771px;
+  height: 8.0771px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.bannerController2.bannerController2.bannerController2 {
+  padding: 9.6925px 4.8462px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.controller2.controller2.controller2 {
+  width: 6.4617px;
+  height: 6.4617px;
+}
+.controller2 {
+  width: 6.4617px;
+  height: 6.4617px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.bannerController3.bannerController3.bannerController3 {
+  padding: 9.6925px 4.8462px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.controller3.controller3.controller3 {
+  width: 6.4617px;
+  height: 6.4617px;
+}
+.controller3 {
+  width: 6.4617px;
+  height: 6.4617px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.bannerController4.bannerController4.bannerController4 {
+  padding: 9.6925px 4.8462px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.controller4.controller4.controller4 {
+  width: 6.4617px;
+  height: 6.4617px;
+}
+.controller4 {
+  width: 6.4617px;
+  height: 6.4617px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.buttonWhite.buttonWhite.buttonWhite {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.button {
+  color: #fff;
+  font-size: 12.9233px;
+  line-height: 19.385px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.navigationButtons.navigationButtons {
+  width: 388px;
+  height: 371.2278px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.buttonCircleNavigation.buttonCircleNavigation.buttonCircleNavigation.buttonCircleNavigation {
+  transform-origin: top left;
+  left: 0.0001px;
+  top: calc(50% - 0.2451px);
+  padding: 6.4617px;
+  border-radius: 807.7071px;
+  transform: matrix(1, 0, 0, 1, 0, 0) translateY(-50%);
+}
+.iconCarrotLeft.iconCarrotLeft.iconCarrotLeft.iconCarrotLeft.iconCarrotLeft {
+  width: 12.9233px;
+  height: 12.9233px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.buttonCircleNavigation2.buttonCircleNavigation2.buttonCircleNavigation2.buttonCircleNavigation2 {
+  transform-origin: top left;
+  left: 0.0001px;
+  top: calc(50% - 0.2451px);
+  padding: 6.4617px;
+  border-radius: 807.7071px;
+  transform: matrix(1, 0, 0, 1, 0, 0) translateY(-50%);
+}
+.iconCarrotLeft2.iconCarrotLeft2.iconCarrotLeft2.iconCarrotLeft2.iconCarrotLeft2 {
+  width: 12.9233px;
+  height: 12.9233px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.icon7.icon7.icon7.icon7.icon7 {
+  left: 25.0005%;
+  right: 34.3744%;
+  top: 12.5%;
+  bottom: 12.4999%;
+}
+.icon7 {
+  left: 25.0005%;
+  right: 34.3744%;
+  top: 12.5%;
+  bottom: 12.4999%;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.banner2.banner2 {
+  transform-origin: top left;
+  left: calc(50% - -13.1206px);
+  top: calc(50% - -0.1587px);
+  width: 433.9644px;
+  height: 600.3174px;
+  border-radius: 21.6982px;
+  background-color: #0646c6;
+  transform: matrix(0.9962, 0.0872, -0.0872, 0.9962, 0, 0) translate(-50%, -50%);
+}
+.group212.group212 {
+  width: 381.5271px;
+  height: 297.4464px;
+}
+.group212 {
+  width: 381.5271px;
+  height: 297.4464px;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.contentFrame2.contentFrame2 {
+  gap: 28.931px;
+  padding: 14.4655px 57.8619px 36.1637px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.frame13.frame13 {
+  gap: 14.4655px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.badge2.badge2.badge2 {
+  padding: 3.6164px 7.2327px;
+  border-radius: 7.2327px;
+}
+.label2 {
+  color: #fff;
+  font-size: 11.7532px;
+  line-height: 14.4655px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.developerHandoffImprovements2 {
+  color: #fff;
+  font-size: 25.3146px;
+  line-height: 28.931px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.01em;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.youLlNowSeeAHighlightAroundSym2 {
+  color: #fff;
+  font-size: 14.4655px;
+  line-height: 21.6982px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.frame14.frame14 {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.bannerController5.bannerController5.bannerController5 {
+  padding: 9.945px 4.5205px;
+}
+.controller5.controller5.controller5 {
+  width: 9.0409px;
+  height: 9.0409px;
+}
+.controller5 {
+  width: 9.0409px;
+  height: 9.0409px;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.bannerController6.bannerController6.bannerController6 {
+  padding: 10.8491px 5.4246px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.controller6.controller6.controller6 {
+  width: 7.2327px;
+  height: 7.2327px;
+}
+.controller6 {
+  width: 7.2327px;
+  height: 7.2327px;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.bannerController7.bannerController7.bannerController7 {
+  padding: 10.8491px 5.4246px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.controller7.controller7.controller7 {
+  width: 7.2327px;
+  height: 7.2327px;
+}
+.controller7 {
+  width: 7.2327px;
+  height: 7.2327px;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.bannerController8.bannerController8.bannerController8 {
+  padding: 10.8491px 5.4246px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.controller8.controller8.controller8 {
+  width: 7.2327px;
+  height: 7.2327px;
+}
+.controller8 {
+  width: 7.2327px;
+  height: 7.2327px;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.buttonWhite2.buttonWhite2.buttonWhite2 {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.button2 {
+  color: #fff;
+  font-size: 14.4655px;
+  line-height: 21.6982px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.navigationButtons2.navigationButtons2 {
+  width: 434px;
+  height: 415.5651px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.buttonCircleNavigation3.buttonCircleNavigation3.buttonCircleNavigation3.buttonCircleNavigation3 {
+  transform-origin: top left;
+  left: -0.0001px;
+  top: calc(50% - 0.2933px);
+  padding: 7.2327px;
+  border-radius: 904.0925px;
+  transform: matrix(1, 0, 0, 1, 0, 0) translateY(-50%);
+}
+.iconCarrotLeft3.iconCarrotLeft3.iconCarrotLeft3.iconCarrotLeft3.iconCarrotLeft3 {
+  width: 14.4655px;
+  height: 14.4655px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.icon14.icon14.icon14.icon14.icon14 {
+  left: 24.9993%;
+  right: 34.3756%;
+}
+.icon14 {
+  left: 24.9993%;
+  right: 34.3756%;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.buttonCircleNavigation4.buttonCircleNavigation4.buttonCircleNavigation4.buttonCircleNavigation4 {
+  transform-origin: top left;
+  left: 0.0002px;
+  top: calc(50% - 0.2933px);
+  padding: 7.2327px;
+  border-radius: 904.0925px;
+  transform: matrix(1, 0, 0, 1, 0, 0) translateY(-50%);
+}
+.iconCarrotLeft4.iconCarrotLeft4.iconCarrotLeft4.iconCarrotLeft4.iconCarrotLeft4 {
+  width: 14.4655px;
+  height: 14.4655px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.icon16.icon16.icon16.icon16.icon16 {
+  left: 25.0011%;
+  right: 34.3739%;
+}
+.icon16 {
+  left: 25.0011%;
+  right: 34.3739%;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.banner3.banner3 {
+  left: calc(50% - 24px);
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 640px;
+  height: 800px;
+  align-items: flex-start;
+}
